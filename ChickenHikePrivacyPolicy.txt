@@ -1,0 +1,2 @@
+This app does not collect, use, store or transfer any personal data.
+Only your game progress (completed levels) and game settings (volume) are stored on your device.
