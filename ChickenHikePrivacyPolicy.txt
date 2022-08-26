@@ -1,6 +1,12 @@
 Chicken Hike Privacy Policy
 ---------------------------
 
-This app (Chicken Hike) does not collect, use, store or transfer any personal data.
-Only your game progress (completed levels) and game settings (volume) are stored locally on your device.
+The app
+
+Chicken Hike
+by VierM Games
+https://play.google.com/store/apps/details?id=com.VierMGames.ChickenHike
+
+does not collect, use, store or transfer any personal data.
+Only your game progress (completed levels) and game settings (sound and music volume) are stored locally on your device.
 No additional Android Permissions are required by the app.
